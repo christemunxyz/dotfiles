@@ -1,0 +1,10 @@
+bind-key j down
+bind-key k up
+
+color background        white black
+color listnormal        white black
+color listfocus         white red bold
+color listnormal_unread white black
+color listfocus_unread  white red bold
+color info              white red bold
+color article           white black
