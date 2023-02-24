@@ -3,8 +3,8 @@ bind-key k up
 
 color background        white black
 color listnormal        white black
-color listfocus         white red bold
+color listfocus         white green bold
 color listnormal_unread white black
-color listfocus_unread  white red bold
-color info              white red bold
+color listfocus_unread  white green bold
+color info              white green bold
 color article           white black
