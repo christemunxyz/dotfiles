@@ -4,5 +4,5 @@ alias v='vim'
 alias ls='ls -l -h --color=auto'
 alias grep='grep --color=auto'
 
-export LS_COLORS="di=01;31:ex=01;34:ln=01;31"
+export LS_COLORS="di=01;32:ex=01;31:ln=01;32"
 
