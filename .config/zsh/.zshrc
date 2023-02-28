@@ -13,7 +13,7 @@ SAVEHIST=10000000
 HISTFILE="${XDG_CACHE_HOME:-$HOME/.cache}/zsh/history"
 
 alias v='nvim'
-alias ls='ls --color=auto'
+alias ls='ls -l -h --color=auto'
 alias grep='grep --color=auto'
 
 # Basic auto/tab complete:
