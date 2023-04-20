@@ -4,6 +4,6 @@ alias v='nvim'
 alias ls='exa -l -h'
 alias grep='grep --color=auto'
 
-export LS_COLORS="di=01;35:ex=01;32:ln=01;35"
+export LS_COLORS="di=01;31:ex=01;32:ln=01;31"
 
 neofetch
